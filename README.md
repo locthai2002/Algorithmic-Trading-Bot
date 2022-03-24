@@ -77,6 +77,9 @@ Here are some screenshots from running the application:
 ![Establish a Baseline Performance](images/5.png)
 ![Establish a Baseline Performance](images/6.png)
 ![Establish a Baseline Performance](images/7.png)
+![Establish a Baseline Performance](images/8.png)
+![Establish a Baseline Performance](images/9.png)
+![Establish a Baseline Performance](images/10.png)
 
 ## **Tune the Baseline Trading Algorithm**
 
