@@ -78,20 +78,27 @@ Here are some screenshots from running the application:
 ![Establish a Baseline Performance](images/6.png)
 ![Establish a Baseline Performance](images/7.png)
 
-## **Use the model-fit-predict pattern to compile and evaluate a binary classification model**
+## **Tune the Baseline Trading Algorithm**
 
-![Use the model-fit-predict pattern to compile and evaluate a binary classification model](images/8.png)
-![Use the model-fit-predict pattern to compile and evaluate a binary classification model](images/9.png)
-![Use the model-fit-predict pattern to compile and evaluate a binary classification model](images/10.png)
+![Tune the Baseline Trading Algorithm](images/8.png)
+![Tune the Baseline Trading Algorithm](images/9.png)
+![Tune the Baseline Trading Algorithm](images/10.png)
 
-## **Optimize the model**
+## **Evaluate a New Machine Learning Classifier**
 
-![Optimize the model](images/11.png)
-![Optimize the model](images/12.png)
-![Optimize the model](images/13.png)
-![Optimize the model](images/14.png)
-![Optimize the model](images/15.png)
+![Evaluate a New Machine Learning Classifier](images/11.png)
+![Evaluate a New Machine Learning Classifier](images/12.png)
+![Evaluate a New Machine Learning Classifier](images/13.png)
+![Evaluate a New Machine Learning Classifier](images/14.png)
+![Evaluate a New Machine Learning Classifier](images/15.png)
 
+## **Create an Evaluation Report**
+
+![Create an Evaluation Report](images/11.png)
+![Create an Evaluation Report](images/12.png)
+![Create an Evaluation Report](images/13.png)
+![Create an Evaluation Report](images/14.png)
+![Create an Evaluation Report](images/15.png)
 
 
 ---
