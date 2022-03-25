@@ -9,7 +9,7 @@ The steps for this project are divided into the following sections:
 2. Establish a Baseline Performance
 3. Tune the Baseline Trading Algorithm
 4. Evaluate a New Machine Learning Classifier
-5. Create an Evaluation Report
+
 
 
 ---
@@ -81,27 +81,13 @@ Here are some screenshots from running the application:
 ![Establish a Baseline Performance](images/9.png)
 ![Establish a Baseline Performance](images/10.png)
 
-## **Tune the Baseline Trading Algorithm**
-
-![Tune the Baseline Trading Algorithm](images/8.png)
-![Tune the Baseline Trading Algorithm](images/9.png)
-![Tune the Baseline Trading Algorithm](images/10.png)
 
 ## **Evaluate a New Machine Learning Classifier**
 
 ![Evaluate a New Machine Learning Classifier](images/11.png)
 ![Evaluate a New Machine Learning Classifier](images/12.png)
 ![Evaluate a New Machine Learning Classifier](images/13.png)
-![Evaluate a New Machine Learning Classifier](images/14.png)
-![Evaluate a New Machine Learning Classifier](images/15.png)
 
-## **Create an Evaluation Report**
-
-![Create an Evaluation Report](images/11.png)
-![Create an Evaluation Report](images/12.png)
-![Create an Evaluation Report](images/13.png)
-![Create an Evaluation Report](images/14.png)
-![Create an Evaluation Report](images/15.png)
 
 
 ---
